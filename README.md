@@ -1,25 +1,25 @@
 <h1 align="center">
-BlackCap Injection v6.5
+Gravity Stealer v1.0
 </h1>
 
-![](https://raw.githubusercontent.com/KSCHdsc/BlackCap-Assets/main/blackcap%20-%20injection.jpg)
+![](https://cdn.discordapp.com/attachments/1055150299142168588/1056297713018339418/V7tx.gif)
 
 
 #<h1 align="center">
-  BlackCap Injection Work With [BlackCap-Grabber](https://github.com/KSCHdsc/BlackCap-Grabber)
+  Gravity Stealer Work With [BlackCap-Grabber](https://github.com/KSCHdsc/BlackCap-Grabber)
 </h1>
 
 
 
 **NOTE:** \
-- BlackCap was made for educational purposes, there for all consequences caused by your actions are **your** responsibility and accountability.
+- Gravity stealer was made for educational purposes, there for all consequences caused by your actions are **your** responsibility and accountability.
 - You got an error? you've find a bug?? join the discord or create an issue!
 
 ---
 
 ## <a id="content"></a>🌐 〢 Content
 
-- [🌌・Discord](https://discord.gg/blackcap)
+- [🌌・Discord](https://discord.gg/webcenter)
 - [🔰・Features](#features)
 - [📝・Changelog](#changelog)
 - [🕵️‍♂️・Credits](#Forked)
@@ -85,14 +85,8 @@ V6.5.2: 2022-21-11
 
 
 ### Authors
-- [KSCHdsc](https://github.com/KSCHdsc)
-- [002Sans](https://github.com/002-sans)
+- [MohxKd](https://github.com/MohxK)
 
-### Contributors (CapingTeam)
-- Xenis
-- Nono1337
-- Irax212
-- Shamroks
 
 ### <a id="Forked"></a>🕵️‍♂️ 〢 Forked From:
 - Hazard Grabber injection
